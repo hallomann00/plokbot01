@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "game_name": "Cyberpunk 2077",
+        "category": "Steam ключи",
+        "title": "Ключ Cyberpunk 2077 со скидкой!",
+        "price": 1200,
+        "description": "Описание товара...",
+        "item_data": "CD KEY: ABCD1234",
+        "discount": 10,
+        "last_posted": "",
+        "post_interval": 5
+    }
+]
